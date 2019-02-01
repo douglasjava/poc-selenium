@@ -16,8 +16,7 @@ This project is a poc for test with selenuim.
 - WebDriver webDriver = new ChromeDriver();
 
 #### Fechar 
-# Fecha o browser
+- Fecha o browser
 - webDriver.quit();
-
-# Fecha apenas a ABA que abriu.
-webDriver.close();
+- Fecha apenas a ABA que abriu.
+- webDriver.close();
